@@ -37,8 +37,8 @@ Welcome to the **Restaurant Rating Prediction** project! This repository contain
 
 - **`app.py`**: Main Streamlit application file for the prediction interface.
 - **`Predicting Restaurant Ratings.ipynb`**: Jupyter Notebook for model development.
-- **`Scaler.pkl`**: Pre-trained scaler used for feature normalization (not included in this repository).
-- **`mlmodel.pkl`**: Machine learning model file for predictions (not included in this repository).
+- **`Scaler.pkl`**: Pre-trained scaler used for feature normalization.
+- **`mlmodel.pkl`**: Machine learning model file for predictions.
 
 ---
 
